@@ -1,0 +1,13 @@
+test_sum1:
+  a: 1
+  b: 2
+  c: 3
+test_sum2:
+  a: 2
+  b: 3
+  c: 5
+
+test_sum3:
+  a: 5
+  b: 6
+  c: 9

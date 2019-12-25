@@ -1,0 +1,7 @@
+info: &data
+  name: "张三"
+  phone: "15848681858"
+
+value:
+  <<: *data
+  address: "北京"
